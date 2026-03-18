@@ -12,6 +12,5 @@ print("Pt Hudson".ljust(20) + "W A08/TQ1.0.41776E3".rjust(25))
 print("Pt Spunkmeyer".ljust(20) + "D A23/TQ6.0.92810E7".rjust(25))
 print("Pt Vasquez".ljust(20) + "J A03/TQ7.0.15618E4".rjust(25))
 print("Pt Wierzbowski".ljust(20) + "T A14/TQ8.0.20034E7".rjust(25))
-print("Marine".ljust(20) + "Service Number".rjust(25))
 print("-" * 45)
 
