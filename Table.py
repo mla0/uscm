@@ -1,4 +1,4 @@
-print("Marine".ljust(20) + "Service Number".rjust(30))
+print("Marine".ljust(20) + "Service Number".rjust(20))
 print("-" * 45)
 print("SFC Apone".ljust(20) + "A A19/TQ4.0.32751E8".rjust(25))
 print("Pt Crowe".ljust(20) + "T A46/TQ1.0.98712E6".rjust(25))
